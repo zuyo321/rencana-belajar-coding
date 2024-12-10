@@ -1,0 +1,5 @@
+RENCANA CODING 
+
+- Belajar HTML, CSS, Bootstrap, Tailwind
+- Belajar Javascript
+- Belajar node.js 
